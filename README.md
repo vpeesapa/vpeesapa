@@ -9,13 +9,10 @@ I'm Varun Peesapati (he/him), a graduate student 👨‍🎓 learning the ways o
 * 📫 How to reach me: **peesapat@usc.edu** OR **Megane20#6008** on Discord
 
 ## 💪GitHub statistics
-<!-- ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpeesapa&count_private=true&&show_icons=true&theme=dracula)
+<p align="center">
+  ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpeesapa&count_private=true&&show_icons=true&theme=dracula)
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpeesapa&layout=compact&theme=dracula) -->
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vpeesapa&count_private=true&&show_icons=true&theme=dracula" />
-</a>
-<a style="padding: 0 10 10 10;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpeesapa&layout=compact&theme=dracula" />
-</a>
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpeesapa&layout=compact&theme=dracula)
+</p>
