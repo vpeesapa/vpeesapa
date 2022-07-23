@@ -11,4 +11,11 @@ I'm Varun Peesapati (he/him), a graduate student 👨‍🎓 learning the ways o
 ## ⚡GitHub statistics
 ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpeesapa&count_private=true&&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpeesapa&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpeesapa&layout=compact&theme=dracula)
+
+<div href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vpeesapa&count_private=true&&show_icons=true&theme=dracula" />
+</div>
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpeesapa&layout=compact&theme=dracula" />
+</div>
