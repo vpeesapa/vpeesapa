@@ -13,9 +13,9 @@ I'm Varun Peesapati (he/him), a graduate student 👨‍🎓 learning the ways o
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpeesapa&layout=compact&theme=dracula) -->
 
-<div>
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vpeesapa&count_private=true&&show_icons=true&theme=dracula" />
-</div>
-<div style="padding: 0 10 10 10;">
+</a>
+<a style="padding: 0 10 10 10;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpeesapa&layout=compact&theme=dracula" />
-</div>
+</a>
