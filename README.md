@@ -7,3 +7,5 @@ I'm Varun Peesapati (he/him), a graduate student 👨‍🎓 learning the ways o
 * 🎮 Favorite games: NieR:Automata 🤖 & Undertale ❤️
 * 🏅 Favorite sports: Cricket 🏏 & Badminton 🏸
 * 📫 How to reach me: **peesapat@usc.edu** OR **Megane20#6008** on Discord
+
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpeesapa&count_private=true)
